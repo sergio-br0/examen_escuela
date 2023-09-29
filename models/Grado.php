@@ -4,7 +4,7 @@ namespace Model;
 
 class grado extends ActiveRecord {
     public static $tabla = 'grados';
-    public static $columnasDB = ['grado_id', 'grado_nombre', 'grado_situacion'];
+    public static $columnasDB = ['grado_nombre', 'grado_situacion'];
     public static $idTabla = 'grado_id';
 
     public $grado_id;
