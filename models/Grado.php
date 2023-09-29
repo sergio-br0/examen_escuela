@@ -1,6 +1,7 @@
 <?php
 
 namespace Model;
+sdfghjm,
 
 class grado extends ActiveRecord {
     public static $tabla = 'grados';
