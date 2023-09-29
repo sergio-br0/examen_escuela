@@ -1,7 +1,7 @@
 <?php
 
 namespace Model;
-sdfghjm,
+bmb,nm
 
 class grado extends ActiveRecord {
     public static $tabla = 'grados';
